@@ -10,4 +10,5 @@ public interface CalculatorService {
     int multiply(int num1, int num2);
 
     int divide(int num1, int num2);
+
 }

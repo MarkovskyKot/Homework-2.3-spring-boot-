@@ -70,4 +70,5 @@ public class CalculatorController {
         int result = calculatorService.divide(num1, num2);
         return num1 + "/" + num2 + "=" + result;
     }
+
 }

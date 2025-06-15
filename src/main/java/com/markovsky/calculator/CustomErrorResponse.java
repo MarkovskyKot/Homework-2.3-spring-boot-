@@ -22,4 +22,5 @@ public class CustomErrorResponse {
     public String getMessage() {
         return message;
     }
+
 }
